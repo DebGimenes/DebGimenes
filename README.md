@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Debora Gimenes 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gimenesdebora)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gimenesdebora/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/c/deboragimenes)
 
 ![DebGimenes GitHub stats](https://github-readme-stats.vercel.app/api?username=DebGimenes&show_icons=true&theme=dark)
