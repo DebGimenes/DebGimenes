@@ -1,19 +1,17 @@
 Olá, eu sou a Débora! 👋 Boas-vindas ao meu perfil.
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o0amZocnFnMHg4dDBxYTN2ZDMzcmRibWh4ZGJzajB5ajBqbzFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="600" alt="[GIF de um gato programando em um laptop]">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhtcXY2dzJqdzVjbWNxaDN2YTRyaTU4cDJlaDVqdnExaGJnZzl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif" width="600" alt="[GIF de um gato programando em um laptop]">
 </p>
 
 👩‍💻 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por criar soluções e aprender novas tecnologias. Atualmente, trabalho com Vue.js 2 e Quasar 1 em projetos na Voxdata. Tenho um grande interesse em desenvolvimento front-end e estou sempre buscando expandir meus conhecimentos. No momento, estou explorando o universo do Blender e Flutter para projetos pessoais.
+Sou uma desenvolvedora apaixonada por criar soluções e aprender novas tecnologias. Atualmente, trabalho com Vue.js 2 e Quasar 1 em projetos. Tenho um grande interesse em desenvolvimento front-end e estou sempre buscando expandir meus conhecimentos. No momento, estou explorando o universo do Node.js para projetos pessoais.
 
-🌱 Atualmente aprendendo: Blender, Flutter
+🌱 Atualmente aprendendo: Node.js, C#, Blender.
 
 💼 Procurando colaborar em projetos de front-end criativos.
 
-💬 Pergunte-me sobre: HTML, CSS, JavaScript, Vue.js
-
-📫 Como me encontrar: debora.gimenes@example.com
+📫 Como me encontrar: @deb.gimenes
 
 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
