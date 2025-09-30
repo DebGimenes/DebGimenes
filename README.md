@@ -27,7 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebGimenes&layout=donut&theme=nightowl)](https://github.com/DebGimenes/github-readme-stats)
 
 <h3>📫 Conecte-se Comigo</h3>
-<p align="left">
-  <a href="https://www.google.com/search?q=https://linkedin.com/in/deboragimenes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="debora-gimenes-linkedin"/></a>
-  <a href="https://www.google.com/search?q=https://instagram.com/deb.gimenes" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="deb-gimenes-instagram"/></a>
-</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deb.gimenes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gimenesdebora/)
