@@ -10,7 +10,7 @@ Sou uma desenvolvedora apaixonada por criar soluções e aprender novas tecnolog
 
 🌱 Atualmente aprimorando:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,nodejs)](https://skillicons.dev)
+[![My Skills]](https://skillicons.dev)
 
 💼 Procurando colaborar em projetos criativos.
 
