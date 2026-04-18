@@ -8,10 +8,6 @@
 
 Sou uma desenvolvedora apaixonada por criar soluções e aprender novas tecnologias. Atualmente, trabalho com Vue.js 2 e Quasar 1 em projetos corporativos. Tenho um grande interesse em desenvolvimento front-end e back-end e estou sempre buscando expandir meus conhecimentos. No momento, estou explorando o universo do Node.js para projetos pessoais.
 
-🌱 Atualmente aprimorando:
-
-[![My Skills]](https://skillicons.dev)
-
 💼 Procurando colaborar em projetos criativos.
 
 📫 Como me encontrar: deboraggimenes@gmail.com
